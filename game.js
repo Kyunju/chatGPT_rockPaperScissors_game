@@ -3,7 +3,7 @@ class Emoji {
     this.x = x;
     this.y = y;
     this.type = type; // 0: 가위, 1: 바위, 2: 보
-    this.speed = 0.2;
+    this.speed = 0.3;
     this.radius = 13;
   }
 
